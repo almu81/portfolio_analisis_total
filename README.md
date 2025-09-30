@@ -18,6 +18,6 @@ Mini proyecto de análisis de reservas: **antelación media**, cancelaciones por
 Cálculo de **KPIs** por campaña con consultas **SQL** en BigQuery y visualización interactiva en **Power BI**, exportando gráficos en PNG.
 
 
-5️⃣ **Predicción de Lluvias - Python**<br>
+5️⃣ **Predicción de Lluvias - Python**
 [prediccionlluvias](https://github.com/almu81/prediccionlluvias.git)<br>
 Laboratorio práctico de predicción de lluvias usando **Machine Learning**: Regresión Logística, KNN, Árboles de Decisión, SVM y Regresión Lineal. Incluye preprocesamiento de datos, codificación One-Hot, división en conjuntos de entrenamiento y prueba, evaluación de modelos con métricas clave (Exactitud, F1, Jaccard, LogLoss) y análisis comparativo del rendimiento de cada algoritmo.
