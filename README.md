@@ -24,5 +24,5 @@ Laboratorio práctico de predicción de lluvias usando **Machine Learning**: Reg
 
 6️⃣ **Análisis de Lanzamientos Falcon 9 – Python**  
 [spacex_local_analysis](https://github.com/almu81/SPACEXAPI.git)  
-Análisis de un dataset histórico de lanzamientos Falcon 9: limpieza de datos, mapeo de nombres de sitios de lanzamiento, cálculo de recuentos por plataforma y generación de gráficos (barras y evolución acumulada) con Python y Matplotlib. Incluye exportación automática de figuras y dataset limpio para análisis futuro.
+Análisis de un dataset histórico de lanzamientos Falcon 9: **limpieza de datos, mapeo de nombres de sitios de lanzamiento, cálculo de recuentos por plataforma y generación de gráficos** (barras y evolución acumulada) con Python y Matplotlib. Incluye exportación automática de figuras y dataset limpio para análisis futuro.
 
