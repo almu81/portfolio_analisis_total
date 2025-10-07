@@ -22,6 +22,7 @@ Cálculo de **KPIs** por campaña con consultas **SQL** en BigQuery y visualizac
 [prediccionlluvias](https://github.com/almu81/prediccionlluvias.git)<br>
 Laboratorio práctico de predicción de lluvias usando **Machine Learning**: Regresión Logística, KNN, Árboles de Decisión, SVM y Regresión Lineal. Incluye preprocesamiento de datos, codificación One-Hot, división en conjuntos de entrenamiento y prueba, evaluación de modelos con métricas clave (Exactitud, F1, Jaccard, LogLoss) y análisis comparativo del rendimiento de cada algoritmo.
 
-6️⃣ Análisis de Lanzamientos Falcon 9 – Python
-spacex_local_analysis
-Análisis de un dataset histórico de lanzamientos Falcon 9: **limpieza de datos**, **mapeo de nombres de sitios de lanzamiento**, cálculo de recuentos por plataforma y generación de gráficos (barras y evolución acumulada) con Python y Matplotlib. Incluye exportación automática de figuras y dataset limpio para análisis futuro.
+6️⃣ Análisis de Lanzamientos Falcon 9 – Python  
+[spacex_local_analysis](https://github.com/almu81/SPACEXAPI.git)  
+Análisis de un dataset histórico de lanzamientos Falcon 9: limpieza de datos, mapeo de nombres de sitios de lanzamiento, cálculo de recuentos por plataforma y generación de gráficos (barras y evolución acumulada) con Python y Matplotlib. Incluye exportación automática de figuras y dataset limpio para análisis futuro.
+
