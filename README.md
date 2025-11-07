@@ -30,7 +30,8 @@ Análisis de un dataset histórico de lanzamientos Falcon 9: **limpieza de datos
 [webscraping](https://github.com/almu81/webscraping)  
 Proyecto de análisis y *web scraping* sobre los lanzamientos del Falcon 9 de SpaceX. Combina datos históricos obtenidos de Wikipedia con datos recientes extraídos en tiempo real mediante *requests* y *BeautifulSoup*. Incluye limpieza, normalización y generación automática de gráficos comparativos (lanzamientos por año, por sitio y resultados de misión). Los CSV limpios se exportan desde Jupyter y Colab para análisis adicional.
 
-8️⃣ Predicción de Ictus (Stroke) – R / Machine Learning
+8️⃣ **Predicción de Ictus (Stroke) – R / Machine Learning**
+
 [Modelo-de-prediccion-accidente-cerebro-vascular](https://github.com/almu81/Modelo-de-prediccion-accidente-cerebro-vascular-.git)
 Desarrollo completo de un modelo predictivo en R para estimar la probabilidad de sufrir un ictus, utilizando un dataset público de salud.
 Incluye preparación de datos, balanceo de clases con ROSE, entrenamiento del modelo de regresión logística y evaluación mediante curva ROC y AUC.
