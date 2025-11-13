@@ -39,8 +39,8 @@ El repositorio contiene scripts independientes para limpieza, entrenamiento y ev
 9️⃣ **Proyecto Ciclystic – R / Análisis de movilidad urbana**<br>
 [Ciclystic_Project](https://github.com/almu81/Ciclystic_Project.git)<br>
 Análisis de datos de viajes compartidos de bicicletas (**primer trimestre 2019 y 2020**) usando **R**. Incluye:
-- **Preparación y limpieza de datos**: unificación de datasets, creación de resúmenes por usuario y hora.
-- **Visualización**: gráficos de uso diario, horas pico, estaciones más populares, duración de viajes.
-- **Insights de marketing**: patrones de uso de suscritos vs casuales y oportunidades para convertir usuarios ocasionales en miembros.
-- Scripts incluidos: `recopilar_datos.R`, `casual&suscritos.R`, `casual_analizar_datos.R`, `suscritos_analizar_datos.R`.
-- Datos originales disponibles en: [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
+**Preparación y limpieza de datos**: unificación de datasets, creación de resúmenes por usuario y hora.
+**Visualización**: gráficos de uso diario, horas pico, estaciones más populares, duración de viajes.
+**Insights de marketing**: patrones de uso de suscritos vs casuales y oportunidades para convertir usuarios ocasionales en miembros.
+Scripts incluidos: `recopilar_datos.R`, `casual&suscritos.R`, `casual_analizar_datos.R`, `suscritos_analizar_datos.R`.
+Datos originales disponibles en: [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html).
